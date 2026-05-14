@@ -1,0 +1,65 @@
+# USGC Metalgate — cyan metal gate transistor scheme
+
+theme[main_bg]="#000000"
+theme[main_fg]="#00ffff"
+theme[title]="#ffff00"
+theme[hi_fg]="#0000ff"
+theme[selected_bg]="#666600"
+theme[selected_fg]="#ffff00"
+theme[inactive_fg]="#4a4a4a"
+theme[graph_text]="#ffff00"
+theme[meter_bg]="#333333"
+theme[proc_misc]="#00ffff"
+
+# Box outlines
+theme[cpu_box]="#00ffff"
+theme[mem_box]="#006666"
+theme[net_box]="#660000"
+theme[proc_box]="#0000ff"
+
+theme[div_line]="#333333"
+
+# Temperature
+theme[temp_start]="#00a645"
+theme[temp_mid]="#ffbf00"
+theme[temp_end]="#ff0000"
+
+# CPU graph (cyan -> blue)
+theme[cpu_start]="#006666"
+theme[cpu_mid]="#00ffff"
+theme[cpu_end]="#0000ff"
+
+# Memory free
+theme[free_start]="#006666"
+theme[free_mid]="#00ffff"
+theme[free_end]="#ffffff"
+
+# Memory cached
+theme[cached_start]="#006666"
+theme[cached_mid]="#00ffff"
+theme[cached_end]="#0000ff"
+
+# Memory available
+theme[available_start]="#ffbf00"
+theme[available_mid]="#666600"
+theme[available_end]="#660000"
+
+# Memory used
+theme[used_start]="#006666"
+theme[used_mid]="#00ffff"
+theme[used_end]="#0000ff"
+
+# Download
+theme[download_start]="#006666"
+theme[download_mid]="#00ffff"
+theme[download_end]="#ffff00"
+
+# Upload
+theme[upload_start]="#000066"
+theme[upload_mid]="#0000ff"
+theme[upload_end]="#00ffff"
+
+# Process box
+theme[process_start]="#006666"
+theme[process_mid]="#00ffff"
+theme[process_end]="#0000ff"
